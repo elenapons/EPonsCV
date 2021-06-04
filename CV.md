@@ -5,10 +5,11 @@
 
 |  |  |                         
 |---------|-------------------------------|
-|Adress|Carrer dels Agudells 71B, 8032 Barcelona (Spain)| 
-|Mobile Phone    |    65250110       |
-| Email| eponsc@gmail.com|
-|LinkedIn|  https://www.linkedin.com/in/elena-pons-28926aa1/         |
+|Address|Carrer dels AXXXXXXXX X, 080XX Barcelona (Spain)| 
+|Mobile Phone| XXXXXXX |
+|Email| eponsc@gmail.com|
+|LinkedIn| https://www.linkedin.com/in/elena-pons-28926aa1/ |
+|Github| https://github.com/elenapons |
 | |
 ## Professional Experience
 
@@ -21,10 +22,9 @@ Hewlett Packard Enterprise
  **January 2015 - December 2020**
 Digital Content Curator
 Catalan Musical Heritage Portal
-- Responsible for the coordination of the team and the curation of the digital content–see http://www.musicalheritage.cat/
-- Responsible for the translation of content into English.
-- Responsible for creating files for over 100 Catalan composers including short biographies.
-- Provide links to related open access content in relation to sheet music, recorded music and relevant bibliography.
+- Responsible for the coordination of the team and the curation of the digital content.
+- Responsible for writing over 100 short biographies.
+- Provide links to related open-access content in relation to sheet music, recorded music and relevant bibliography.
 
 **November 2018 - January 2020**
 Lecturer (Cover)
@@ -41,7 +41,7 @@ Royal Holloway University of London
 **July 2015 - September 2015**
 Research assistant
 Open Music Library Project
-- Responsible for creating detailed spreadsheets of open access journals as well as libraries with digitized music collections
+- Responsible for creating detailed spreadsheets of open-access journals as well as libraries with digitized music collections
 
 **March 2014 - September 2014**
 Research assistant
