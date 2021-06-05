@@ -5,7 +5,7 @@
 
 |  |  |                         
 |---------|-------------------------------|
-|Address|Carrer dels AXXXXXXXX X, 080XX Barcelona (Spain)| 
+|Address|Carrer XXXXXXXX X, 080XX Barcelona (Spain)| 
 |Mobile Phone| XXXXXXX |
 |Email| eponsc@gmail.com|
 |LinkedIn| https://www.linkedin.com/in/elena-pons-28926aa1/ |
@@ -83,12 +83,13 @@ BA in Historical Musicology
 
 **IT Skills**
 : Proficient user of Google apps, Trello and Slack
-: Expert user of Markdown
+: Markdown
 : Web development skills with Python and JavaScript (see [Github][2])
 : - Programming course (University of London – Coursera) – ‘Introduction to Meteor.js Development’.
 : - Programming course (Rice University Course – Coursera) – ‘An Introduction to Interactive Programming in Python’
 : - Programming course (University of London – Coursera) – ‘Responsive Website Basics: Code with HTML, CSS, and JavaScript’.
 : - Programming course (University of London – Coursera) – ‘Responsive Web Design’
+: - Several Codecademy courses on Git, Python, Javascript, React, CSS, HTML and PHP.
 
 ### Professional and Personal Achievements
 
