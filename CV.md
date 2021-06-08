@@ -115,7 +115,7 @@ Mobint Agaur scholarship for the international mobility of students (Catalunya G
 
 ### References
 
-Aurore Nicodeme, Team Lead DM Hub
+XXXXXX XXXXXXXX, Team Lead DM Hub
 Hewlett Packard Enterprise
 Carrer Tànger 66
 08018 Barcelona
